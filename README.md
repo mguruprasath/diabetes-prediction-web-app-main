@@ -1,6 +1,6 @@
 # Welcome to [mguruprasath](https://github.com/mguruprasath/) profile! <a href="https://github.com/mguruprasath/"> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamNzZmc0aGU1cnd6N2ttOTc1dWl1d3VlODlyazVlMWppbG44Nng2MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zMQve1zBszJ3Uqsbi2/200.webp" width="25px"></a>
 
-### I'm a...   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" height=15% width=40% align="right">
+### I'm a...   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamNzZmc0aGU1cnd6N2ttOTc1dWl1d3VlODlyazVlMWppbG44Nng2MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zMQve1zBszJ3Uqsbi2/200.webp" height=15% width=40% align="right">
 
 * Future developer
 * Deep Learning in Medical Image Processing and Analysis Paper Author
