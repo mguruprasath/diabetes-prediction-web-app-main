@@ -106,7 +106,7 @@ $ streamlit run main.py
 If you have any doubt or want to contribute feel free to hit me up on (mguruprasathgp@gmail.com)
 The app uses the Streamlit(<https://github.com/streamlit/streamlit>) library for the user interface.**
 
-
+![Test Image 1](https://res.cloudinary.com/grohealth/image/upload/c_fill,f_auto,fl_lossy,h_650,q_auto,w_1085/v1581695681/DCUK/Content/causes-of-diabetes.png)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... medical project
